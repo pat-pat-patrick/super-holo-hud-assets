@@ -16,7 +16,8 @@ The package is attached to each [release](https://github.com/pat-pat-patrick/sup
 
 | Super Holo HUD | Super Holo HUD Assets |
 |---|---|
-| 1.250.0 – 1.250.2 | 2.1.0 – 2.1.2 |
+| 1.250.0 – 1.256.2 | 2.1.0 – 2.1.2 |
+| 1.257.0 – 1.259.4 | 2.2.0 |
 
 ## Credits
 
@@ -48,7 +49,8 @@ Super Holo HUD（《绝地潜兵 2》全息界面 MOD）的模型、材质、贴
 
 | Super Holo HUD | Super Holo HUD Assets |
 |---|---|
-| 1.250.0 – 1.250.2 | 2.1.0 – 2.1.2 |
+| 1.250.0 – 1.256.2 | 2.1.0 – 2.1.2 |
+| 1.257.0 – 1.259.4 | 2.2.0 |
 
 ### 署名
 
